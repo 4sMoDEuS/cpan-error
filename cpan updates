@@ -1,0 +1,24 @@
+	Kali linux -cpan module codes
+
+
+cpan App::cpanminus
+cpan Module::Build
+cpan Test::Harness::Straps
+cpanm WWW::Mechanize
+cpanm JSON module
+.......................................
+For Upgrade in the lib tool
+.......................................
+
+apt-get install liblocal-lib-perl
+apt-get install libjson-perl
+apt-get upgrade liblocal-lib-perl
+apt-get upgrade libjson-perl
+
+
+
+
+.......................................
+now you can open up your perl for location tracking without cpan error!
+.......................................
+
