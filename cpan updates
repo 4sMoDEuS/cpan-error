@@ -22,3 +22,4 @@ apt-get upgrade libjson-perl
 now you can open up your perl for location tracking without cpan error!
 .......................................
 
+note: copy these commands one by one in the terminal!
